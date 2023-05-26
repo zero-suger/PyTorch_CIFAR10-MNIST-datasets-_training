@@ -17,3 +17,7 @@ NN LR (custom model) --> 11 Epoches  --> 16 ~ 18%
 CNN (VGG custom) --> 11 Epoches  --> 61 ~ 64%
 
 ResNet (resnet18) --> 11 Epoches  --> 91~97,8%
+
+# ResNet result with plots: 
+
+<img width="952" alt="Screen Shot 2023-05-26 at 7 51 08 PM" src="https://github.com/zero-suger/PyTorch_CIFAR10-MNIST-datasets_Training_Testing/assets/63332872/58f3b5e1-3d5a-4d8e-8dfa-a5104f58cebd">
