@@ -10,7 +10,7 @@ The dataset is divided into five training batches and one test batch, each with 
 
 
 <img
-  src="![image](https://github.com/zero-suger/PyTorch_CIFAR10-MNIST-datasets_Training_Testing/assets/63332872/c4295b21-110e-4746-88d3-93b339476885)
+  src="![image](https://www.cs.toronto.edu/~kriz/cifar-10-sample/cat4.png)
 "
   alt="Alt text"
   title="Optional title"
